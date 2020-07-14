@@ -1,0 +1,16 @@
+.flex {
+    background-color: white;
+    margin: 4px;
+    padding: 25px;
+    display: flex;
+    justify-content: center;
+}
+
+.logo {
+    float: left;
+    padding: 30px;
+}
+
+.App {
+    background-color: rgb(229, 155, 229);
+}

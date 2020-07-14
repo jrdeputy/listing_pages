@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import JobBoardComponent from './components/JobBoardComponent';
 import data from './assets/data.json';
+import './components/Listing-page.css';
 
 console.log(data);
 
@@ -19,7 +20,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1 className='text-4xl'>Hello World!</h1>
+      <h1 className='text-4xl'>Listings Page</h1>
       {
        jobs.length === 0 ? (
          <p>Jobs are fetching...</p>
