@@ -1,0 +1,37 @@
+.App {
+    background-color: lightgrey;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    font-size: 32px;
+}
+
+.image-1 {
+    width: 175px;
+    margin-left: 155px;
+    margin-right: 155px;
+    margin-bottom: 50px;
+}
+
+.image-2 {
+    width: 175px;
+    margin-top: 90px;
+    margin-left: 155px;
+    margin-right: 155px;
+    margin-bottom: 50px;
+}
+
+.image-3 {
+    width: 175px;
+    margin-top: 90px;
+    margin-left: 155px;
+    margin-right: 155px;
+    margin-bottom: 50px;
+}
+
+.ratings {
+    margin-left: 150px;
+    font-size: 16px;
+}
